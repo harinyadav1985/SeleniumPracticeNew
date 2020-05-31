@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17804" started-at="2020-05-29T05:50:52Z" finished-at="2020-05-29T05:51:10Z">
+  <suite name="Default suite" duration-ms="62466" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17804" started-at="2020-05-29T05:50:52Z" finished-at="2020-05-29T05:51:10Z">
+    <test name="Default test" duration-ms="62466" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:09Z">
       <class name="seleniumPackage.launchBrowser">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="launchBrowser" duration-ms="8365" started-at="2020-05-29T05:50:52Z" finished-at="2020-05-29T05:51:01Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="launchBrowser" duration-ms="53487" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="searchItems()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="searchItems" duration-ms="9390" started-at="2020-05-29T05:51:01Z" finished-at="2020-05-29T05:51:10Z">
+        <test-method status="PASS" signature="searchItems()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="searchItems" duration-ms="8911" started-at="2020-05-31T13:11:00Z" finished-at="2020-05-31T13:11:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItems -->
