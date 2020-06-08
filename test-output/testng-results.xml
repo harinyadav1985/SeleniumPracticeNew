@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62466" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:09Z">
+  <suite name="Suite" duration-ms="23078" started-at="2020-06-08T15:11:32Z" finished-at="2020-06-08T15:11:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62466" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:09Z">
-      <class name="seleniumPackage.launchBrowser">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="launchBrowser" duration-ms="53487" started-at="2020-05-31T13:10:06Z" finished-at="2020-05-31T13:11:00Z">
+    <test name="Test" duration-ms="23078" started-at="2020-06-08T15:11:32Z" finished-at="2020-06-08T15:11:55Z">
+      <class name="seleniumPackage.LaunchBrowser">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumPackage.LaunchBrowser@5e3a8624]" name="launchBrowser" duration-ms="11242" started-at="2020-06-08T15:11:32Z" finished-at="2020-06-08T15:11:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="searchItems()[pri:0, instance:seleniumPackage.launchBrowser@1bce4f0a]" name="searchItems" duration-ms="8911" started-at="2020-05-31T13:11:00Z" finished-at="2020-05-31T13:11:09Z">
+        <test-method status="PASS" signature="searchItems()[pri:0, instance:seleniumPackage.LaunchBrowser@5e3a8624]" name="searchItems" duration-ms="11757" started-at="2020-06-08T15:11:43Z" finished-at="2020-06-08T15:11:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItems -->
-      </class> <!-- seleniumPackage.launchBrowser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- seleniumPackage.LaunchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
