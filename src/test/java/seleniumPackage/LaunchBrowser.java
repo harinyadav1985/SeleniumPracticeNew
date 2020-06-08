@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class launchBrowser {
+public class LaunchBrowser {
 	
 	String title;
 
